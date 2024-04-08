@@ -1,5 +1,5 @@
 # git repo using init
-Initialized repo using git bash
+Initialized repo using git bash.
 
 # Name 
 Balbir Singh
